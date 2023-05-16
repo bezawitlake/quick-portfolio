@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning Models
 
-[Project 1 Title](/sample_page)
+[Forecasting PM using less attributes](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
