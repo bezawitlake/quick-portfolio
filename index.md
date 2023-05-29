@@ -4,7 +4,7 @@
 
 ### Machine Learning Models
 
-[Forecasting PM using less attributes](/sample_page)
+[Prediction of heart Disease](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
