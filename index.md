@@ -4,7 +4,7 @@
 
 ### Machine Learning Models
 
-[Prediction of heart Disease](/sample_page)
+[Prediction of heart Disease](https://github.com/bezawitlake/Heart-Disease-Prediction)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
