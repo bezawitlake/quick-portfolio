@@ -2,10 +2,10 @@
 
 ---
 
-### Machine Learning Models
+### Comparison of Classification Algorithm for Heart Disease Prediction
 
-[Prediction of heart Disease](https://github.com/bezawitlake/Heart-Disease-Prediction)
-The heart disease prediction project is a machine learning project that aims to predict the presence or absence of heart disease in patients based on their medical history and other risk factors. In this project, I build a prediction model using SVM, Decision Tree, Random forest, Naive Bayes, Logistic Regression Classifier, and XGB algorithm.
+[The heart disease prediction project](https://github.com/bezawitlake/Heart-Disease-Prediction)
+is a machine learning project that aims to predict the presence or absence of heart disease in patients based on their medical history and other risk factors. In this project, I build a prediction model using SVM, Decision Tree, Random forest, Naive Bayes, Logistic Regression Classifier, and XGB algorithm.
 <img src="images/dummy_thumbnail.jpg?raw=true"/> 
 
 
